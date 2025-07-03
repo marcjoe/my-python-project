@@ -8,6 +8,7 @@ This project contains basic examples of Python functions including greetings and
 - Addition and subtraction functions
 - good
 - nice to edit
+- interesting
 
 ## Usage
 ```bash
