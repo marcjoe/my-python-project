@@ -9,6 +9,7 @@ This project contains basic examples of Python functions including greetings and
 - good
 - nice to edit
 - interesting
+- nice to sound
 
 ## Usage
 ```bash
